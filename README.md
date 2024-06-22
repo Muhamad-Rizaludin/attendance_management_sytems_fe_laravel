@@ -1,4 +1,4 @@
-# Frontend Attendance System using laravel
+# Frontend Attendance management System using laravel
 
 ## Setup Instructions
 
@@ -15,7 +15,8 @@
         npm run dev
         ```
 ### 4. FYI: Dont use migartion, you must be import databese cek.sql in folder database
-### 5. finish install
+### 4. Rename .env.example become .env
+### 5. Finish install
 
 ## How to run FE attendance systems  ?
 
